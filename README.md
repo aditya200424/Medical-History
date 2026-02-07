@@ -1,4 +1,9 @@
+Healthcare Innovation Platform
 
+A unified, secure, ABDM-compliant digital health platform that stores patient records in encrypted cloud lockers, enables role-based access for doctors, labs, and pharmacies, and eliminates paper-based errors and prescription forgery. Patients fully control consent while providers access exactly what they need — no more, no less.
+
+Prototype Video Link
+https://youtube.com/shorts/_pTHY7SY_Y0?feature=share
 
 🚨 Problem Statement
 
